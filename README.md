@@ -1,0 +1,1 @@
+Current Project is a Recipe Website, which has an index page which links to recipes.
